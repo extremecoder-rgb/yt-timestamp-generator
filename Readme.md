@@ -26,8 +26,7 @@ Experience the live application here:
 ### Prerequisites
 
 * Python 3.7 or higher
-* A Google API key for Gemini AI (set as `GOOGLE_API_KEY` in `.env`)([GitHub][4])
-
+* A Google API key for Gemini AI (set as `GOOGLE_API_KEY` in `.env`)
 ### Steps
 
 1. **Clone the Repository**

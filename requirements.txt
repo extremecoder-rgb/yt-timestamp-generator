@@ -6,3 +6,5 @@ youtube-transcript-api
 langchain
 langchain-community
 pytube
+gunicorn
+

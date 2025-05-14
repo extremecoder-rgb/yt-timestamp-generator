@@ -1,6 +1,6 @@
 # 🎬 YouTube Timestamp Generator
 
-Generate structured timestamps for YouTube videos using AI. This Flask web app extracts video transcripts and summarizes key sections into clickable timestamps, enhancing video navigation and viewer engagement.([Reddit][1], [Exemplary AI][2])
+Generate structured timestamps for YouTube videos using AI. This Flask web app extracts video transcripts and summarizes key sections into clickable timestamps, enhancing video navigation and viewer engagement. 
 
 ---
 
@@ -82,7 +82,7 @@ Access the application at `http://localhost:5000`.
 1. Navigate to the application's homepage.
 2. Enter the URL of the YouTube video you wish to process.
 3. Click the "Generate Timestamps" button.
-4. View the generated timestamps, each indicating a distinct segment of the video.([Ilya Rodionov][5])
+4. View the generated timestamps, each indicating a distinct segment of the video.
 
 ---
 
